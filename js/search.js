@@ -958,5 +958,604 @@ let search = [
     },
     {
         title: "O'quvchilarni qobiliyatlari, qiziqishlari va iste'dodlarini  rivojlantirish asosan nimaga bog'liq?      Maqsadga muvofiq o'quv-tarbiyaviy jarayonini tashkilashtirish va amalga oshirishga    ",
-    },    
+    },
+    {
+        title: "Didaktika sozi qanday manolarni anglatadi....  oqitish, organish",
+    },
+    {
+        title: "Jazo nima .. bolalarning notogri qilgan ishiga ozini iqror qilish",
+    },
+    {
+        title: "Tiflopedagogika bu ... kozi ojiz bolalarni oqitish",
+    },
+    {
+        title: "Ijtimoiy xodisa sifatida tarbiyaning mohiyati nimadan iborat....insoniyat toplagan ijtimoiy – manaviy tajribalarni yosh avlodga orgatish orqali ularni hayotga, mehnatga tayyorlash",
+    },
+    {
+        title: "Tarbiyaning tarixiy xarakteri deganda nima tushunasiz....jamiyatning ijtimoiy – iqtisodiy taraqqiyoti bilan bogliq holda tarbiya xarakteri, mazmuni, vazifalari, metodlarining ozgarib borishi",
+    },
+    {
+        title: "Umuminsoniy tarbiyaviy qadriyatlarga nimlar kiradi ...barcha xalqlar uchun umumiy bolgan ilgor tarbiyaviy goyalar, ananalar",
+    },
+    {
+        title: "Pedagogika fanining asosiy tushunchalari qaysilar arbiya, talim, malumot, metod,  rivojlanish, shakllanish",
+    },
+    {
+        title: "Pedagogik xodisa sifatida tarbiyaning mohiyati nimadan iborat....shaxsni ijtimoiy tajribani egallash boyicha faoliyatini tashkil etishdan iborat va maqsadga qaratilgan ongli ravishda amalga oshiriladigan pedagogik  jarayon",
+    },
+    {
+        title: "Talim deb nimaga aytiladi....bu oquvchilarni bilim, konikma malakalarni egallash, ijodiy qobiliyatlarini ostirish, axloqiy  manaviy fazilatlarini tarkib toptirish maqsadida oquv – bilish faoliyatini tashkil etishdan iborat pedagogik jarayon",
+    },
+    {
+        title: "Talim jarayonining mohi yatini nima tashkil etadi...bilim, konikma. malaka",
+    },
+    {
+        title: "Malumot nima....ilmiy bilimlar, amaliy konikma va malakalarni egallash jarayoni bosqichlari",
+    },
+    {
+        title: "Rivojlanish deb nimaga aytiladi.... odamni anatomik – fiziologik jihatdan osishida, psixikasida, bilish qobiliyati, xulqi, ijtimoiy – siyosiy qarashlarida roy beradigan miqdor va sifat ozgarishlar jarayoni.",
+    },
+    {
+        title: "Pedagogika fanining asosiy tarmoqlarini aniqlang... umumiy pedagogika, maktabgacha tarbiya pedagogikasi, orta  maktab pedagogikasi, maxsus pedagogika.",
+    },
+    {
+        title: "Pedagogika fanining metodologik asoslarini belgilang....oliy pedagogik xodisalarni tadqiq qilishda qollanma boladigan ilmiy – falsafiy goyalar, ilmiy meros",
+    },
+    {
+        title: "Pedagogik ilmiy – tadqiqot metodlari qaysilar....kuzatish,suxbat, anketa, maktab xujjatlarini organish",
+    },
+    {
+        title: "Shaxs rivojlanishi va tarkib topishning asosiy omillari qaysilar...irsiyat, muhit, tarbiya, shaxsning oz faoliyati",
+    },
+    {
+        title: "Odamning shaxs bolib yetishuvida irsiyat, muhit va tarbiyaning roli ortacha necha foizni tashkil etadi.... 64% irsiyat, 16% muhit. 3% tarbiyaga bogliq. 17% aralash omillar",
+    },
+    {
+        title: "Tarbiya  jarayoning mohiyati nimadan iborat...tarbiya shaxsning ijtimoiy tajribani ozlashtirish boyicha faoliyatini tashkil etishga qaratilgan va ongli ravishda amalga oshiriladigan jarayondir",
+    },
+    {
+        title: "Tarbiya jarayonining oziga xos xususiyatlari nimalardan iborat...tarbiyaning oziga xos xususiyati uning davomiyligi, uzluksizligi, kompleks (yaxlit) xarakteri, ikki tomonlama jarayon ekanligi",
+    },
+    {
+        title: "Tarbiya jarayoni qanday bosqichlardan iborat...oquvchilarni umumiy talab va meyorlar bilan tanishtirish, qarash va etiqodlarni shakllantirish, amaliy konikma va malakalarni tarkib toptirish.",
+    },
+    {
+        title: "Oquvchining tarbiyalanganlik darajasini nimalarga qarab bilish mumkin....oquvchida tarbiyaga tegishli bilimlar mavjudligiga, bu bilimlarga faoliyatida amal qilishga hatti – harakat mavjudligiga qarab",
+    },
+    {
+        title: "Tarbiya prinsiplari deb nimaga aytiladi...tarbiyachi tarbiyaviy ishda amal qilishi zarur bolgan asosiy qoidalarga aytiladi",
+    },
+    {
+        title: "Tarbiya prinsiplarini sanab bering....tarbiyaning hayot, mehnat bilan bogliqligi, bola shaxsini xurmat qilish, talabchanlik, yosh va oziga xos xususiyatlarni hisobga olish",
+    },
+    {
+        title: "Milliy tarbiya nima....har bir xalqning oz milliy madaniyati, tili tarixi, urf – odati",
+    },
+    {
+        title: "Talim-tarbiya jarayonida biz oquvchi talabalar ongi, qalbiga qaysi goyalarni singdiramiz....hammasi togri",
+    },
+    {
+        title: "Tarbiya metodlarini sanab bering....ishontirish, ragbatlantirish, jazolash",
+    },
+    {
+        title: "Tarbiya vositasiga nimalar kiradi....suhbat, majlis, siyosiy axborot, badiiy adabiyot, kino.",
+    },
+    {
+        title: "Dunyoqarash deb nimaga aytiladi...kishilarning tevarak-atrofdagi voqeilikka munosabatini belgilovchi bilimlari, qarashlari  etiqodlari va ideallar tizimiga aytiladi.",
+    },
+    {
+        title: "Huquqiy tarbiyaning vazifalari nimalardan iborat....oquvchilarni  Ozbekiston Konstitutsiyasi, qonunlari bilan tanishtirish va ularga amal qilishga orgatishdan iborat",
+    },
+    {
+        title: "Estetik tarbiyani amalga oshirish yollarini korsating....hamma javoblar togri.",
+    },
+    {
+        title: "Pedagogika tarixi fani nimani organadi....eng qadimgi davrlardan tortib to hozirgi kungacha bolgan tarixiy davrlardagi tarbiya, maktab va pedagogik nazariyalar taraqqiyoti tarixini organadi.",
+    },
+    {
+        title: "Xadis ilmining rivojiga katta hissa qoshgan muhaddislarni aniqlan...Muborak al-Marvaziy, Imom al-Buxoriy, Imom at-Termiziy",
+    },
+    {
+        title: "Ya.A. Kamenskiy didaktikani qanday tariflagan....hammani hamma narsaga universal oqitish sanati",
+    },
+    {
+        title: "Turkistonda jadidchilik harakatining yirik vakillari kimlar....M.Behbudiy, Munavvar Qori Abdurashidov, Cholpon, Abdulla Avloniy, Ibrat",
+    },
+    {
+        title: "Mahmudxoja Behbudiy tashkil etgan “usuli jadid” maktabi necha bosqichli va necha yillik bolgan....2 bosqichli, 8 yillik",
+    },
+    {
+        title: "Abdulla Avloniynnig asarlari qaysi javobda togri berilgan...“Turkiy guliston yoxud axloq”, “Birinchi muallim”, “Advokatlik osonmi”,”Qiz bola yoki Xolida”.",
+    },
+    {
+        title: "Oqitishning sinf-dars tizimiga asos solgan pedagog....A.Disterveg",
+    },
+    {
+        title: "Didaktika nima....didaktika tarbiya nazariyasi bolib talim-tarbiya nazariyasi, qonunlarini mazmuni, usullari ni organuvchi fan.",
+    },
+    {
+        title: "Didaktika sozi qanday manoni bildiradi....didaktika grekcha soz bolib, yani oqitish, organish manolarini beradi",
+    },
+    {
+        title: "Didaktikaning asosiy tushunchalari qaysilar....dars, suhbat, maruza, hikoya, kuzatish",
+    },
+    {
+        title: "Malumotning mazmuni deb nimaga aytiladi....oquvchilarning talim jarayonida egallashi zarur bolagn  ilmiy bolimlar,  konikma malakalar,  ahloqiy goyalar tizimiga aytiladi",
+    },
+    {
+        title: "Malumotning mazmuniga tasir qiluvchi omillar qaysilar...maktab joylashgan  mintaqaning  xususiyatlari,  adabiyot va sanat",
+    },
+    {
+        title: "Umumiy talim deb nimaga aytiladi...oquvchilarni  tabiat va jamiyat togrisidagi  umumiy nazariy  bilimlar va  ularni amalda qollash uchun zarur  bolgan umumiy konikma,  malakalar bilan  qurollantiradigan bilimlarga aytiladi.",
+    },
+    {
+        title: "Politexnik talim deb nimaga  aytiladi....texnika sohasida  biror hunarni orgatadigan talimga aytiladi.",
+    },
+    {
+        title: "Bilim deb nimaga aytiladi...oquvchilar talim jarayonida ozlashtirishi lozim bolgan oquv materiallariga  aytiladi",
+    },
+    {
+        title: "Konikma deb nimaga aytiladi....oquvchilarning ozlashtirgan bilimlarini  amalda qollash usullarini  egallashlariga  aytiladi",
+    },
+    {
+        title: "Talim jarayoning tarkibiy qismlari...oquv materialini   idrok qilish,  uni tushunish,  umulashtirish, amalda qollash.",
+    },
+    {
+        title: "Talim prinsiplarini belgilang....talimda mantiqiylik, ilmiylik tabaqalashtirish, taqqoslash, xulosa chiqarish.",
+    },
+    {
+        title: "Talimning tashkiliy shakllarini aniqlang....dars, umumiy talim, ekskursiya, kasbiy talim, oliy talim.",
+    },
+    {
+        title: "Ozbekiston mustaqillikka erishganidan keyin “Talim togrisida”gi Qonun  va Kadrlar tayyorlash Milliy dasturi qachon qabul qilingan...1997 yil 29 avgust",
+    },
+    {
+        title: "Psixologiya - fan sifatida....ongning xususiyati sifatida psixikaning dalillarini, qonuni va mexanizmlarini organadi",
+    },
+    {
+        title: "Psixika - bu .....yuksak darajada tashkil topgan materiyaning xususiyati bolib, u tashqi olamni oziga xos yosinda aks ettiradi",
+    },
+    {
+        title: "Psixikaning namoyon bolish shakllari...psixik jarayon, holatlar va shaxsning individual xususiyatlari",
+    },
+    {
+        title: "Sotsiometrik metod – bu ... shaxslararo birgalikdagi faoliyat jarayonida ozaro munosabatlarni aniqlash metodidir",
+    },
+    {
+        title: "Test metodi – bu ... shaxslararo birgalikdagi faoliyat jarayonida guruh, jamoadagi ozaro munosabatlarni aniqlash metodidir",
+    },
+    {
+        title: "Kuzatish metodi bu -.....psixik hodisalarning tashqi alomatlarini tasvirlash bilan cheklanib qolmay, balki bu hodisalarning psixologik tabiatini ilmiy ravishda tushuntirib beradi",
+    },
+    {
+        title: "Eksperiment metodi bu - .....qisqa vaqt ichida bajarilishi lozim bolgan vazifa bolib, uning bajarilishi  bazi bir psixik vazifalar mukammalligining korsatgichi bolib xizmat qiladi",
+    },
+    {
+        title: "Faoliyat mahsulotlarini organish metodi – bu .....inson faoliyatining mahsulotlarini organish metodi.",
+    },
+    {
+        title: " Anketa metodi – bu .....yozma ravishda berilgan savollarga javob olish va uning natijasini tahlil qilish",
+    },
+    {
+        title: "Psixologiya fanining vazifalari....psixologiyani organish orqali odam ozini va ozgalarni kuchli va zaif tomonlarini hamda oziga va boshqalarga tasir korsatish va ozgartirish imkonini beradi.",
+    },
+    {
+        title: "Shaxs faolligining manbai - ... motiv",
+    },
+    {
+        title: "Faoliyat – bu ...odamning u yoki bu ehtiyojlarini qondirgan faol xatti-harakatidir",
+    },
+    {
+        title: "Shaxs deb - .....ijtimoiy munosabatlarga kirishuvchi va ijtimoiy taraqqiyotda faol    qatnashuvchi odam",
+    },
+    {
+        title: "Diqqat deb - ...ongning biron bir predmet, hodisa yoki faoliyatga qaratilishi hamda",
+    },
+    {
+        title: "Diqqatning asosiy xususiyatlari...barcha javoblar togri",
+    },
+    {
+        title: "Sezgi deb – ...tashki tasirlarni tegishli retseptorlar orqali markaziy nerv sistemasiga  tasiri va undan qaytadigan javob reaksiyasi",
+    },
+    {
+        title: "Idrok deb - ... Narsa va predmetlarni, voqea yoki hodisalarni yaxlit obrazini miyada aks ettirilishiga idrok deb ataladi",
+    },
+    {
+        title: "Idrok xususiyatlari....javoblarning barchasi togri",
+    },
+    {
+        title: "Tasavvur deb - ... koz ongimizda namoyon boladigan narsalar",
+    },
+    {
+        title: "Xotira bu - ... otmish tajribamizda esda olib qolish, esda saqlash, qayta esga tushurish va unitish jarayoni",
+    },
+    {
+        title: "Xotira jarayonlari ... esda olib qolish, esda saqlash, esga tushurish, unutish",
+    },
+    {
+        title: "Tafakkur bu - ... voqelikni analiz va sintez qilish, taqqoslash, umumlashtirish,  konkretlashtirish, xulosa qilish  va xukm chikarish jarayonidir",
+    },
+    {
+        title: "Tafakkur hosil bolishi uchun qanday fikr yuritish jarayonlari muhim deb hisoblaysiz.... har turdagi javob muhimdir",
+    },
+    {
+        title: "Nutq bu - ... kishilarning til vositasidagi ozaro munosabatda bolish jarayoni ",
+    },
+    {
+        title: "Xayol bu - ... ijtimoiy ahamiyatga ega bolgan muhim bir yangilik yaratish faoliyatidir",
+    },
+    {
+        title: "Hissiyot bu - ... kishilarning tevarak–atrofga bolgan munosabatlarini namoyon bolishi  ",
+    },
+    {
+        title: "Iroda bu - ... kishining oz oldiga qoygan maqsadga erishish uchun tosiqlarni harakat yordamida yengish vaqtida vujudga keladigan psixik jarayon",
+    },
+    {
+        title: " Temperament bu - ... odam asab tizimining holati uning boshqa odamlarga bolgan munosabatida va hayotiy vaziyatda namoyon boladigan shaxsiy xususiyatdir",
+    },
+    {
+        title: "Xarakter bu - ... kishilarning voqelikka bolgan munosabatida vujudga keladigan va uning xulq-atvorida hamda xatti-harakatida tasir qoldiradigan muhim barqaror psixologik xususiyatlarning majmui",
+    },
+    {
+        title: "Qobiliyat bu - ... bilimlarni, konikma va malakalarni nisbatan osonlik bilan egallab oladigan va biror faoliyat bilan muvaffaqiyatli shugullanish mumkin bolgan shaxsiy psixologik xususiyatdir",
+    },
+    {
+        title: "Psixikaning bilish jarayonlarini korsatib bering...diqqat, xotira, sezgi, idrok, tafakkur, nutq, xayol",
+    },
+    {
+        title: " «Shaxsning ijtimoiylashuv jarayoni» deb nimaga aytiladi.....inson tomonidan ijtimoiy tajribani egallash va hayot – faoliyat jarayonida uni faol tarzida ozlashtirish jarayoni",
+    },
+    {
+        title: "Oqish jarayonini qachon qiziqarli qilish mumkin, agarda..........doimo  oqish jarayonidagi intensivlikni qollab-quvvatlaganda",
+    },
+    {
+        title: "Oqituvchining asosiy vazifasini korsating....maqsadga yonaltirish",
+    },
+    {
+        title: "Shaxsning rivojlanishiga tasir etuvchi omillar .... irsiyat, tashqi muxit, talim-tarbiya",
+    },
+    {
+        title: "Akseleratsiya nima.... bola rivojlanishining tezlashish holati",
+    },
+    {
+        title: " Kim Yevropa tarbiyasi amaliyotining nazariy sistemasini yaratgan.... K. D. Ushinskiy",
+    },
+    {
+        title: "Ideal oqituvchi- bu.... namunali darajada darsni olib boruvchi  uqituvchi",
+    },
+    {
+        title: "Oquvchilarni qobiliyatlari, qiziqishlari va istedodlarini  rivojlantirish asosan nimaga bogliq....maqsadga muvofiq oquv-tarbiyaviy jarayonini tashkillashtirish va amalga oshirishga",
+    },
+    {
+        title: "Oquvchining ichki motivi quyidagi holatda boshlanadi......  oz-oziga buyruq berishda",
+    },
+    {
+        title: "Qaysi yosh davrida turli kasblarga qiziqish, kelajagida kim bolishni tasavvur qilish yuz beradi....bolalik davrida",
+    },
+    {
+        title: "Shaxslararo munosabatlarda kishilarning bir - birlarini idrok etishlari va tushunishlari.... perseptiv muloqot",
+    },
+    {
+        title: "Shaxsdagi tugmalik alomatlari bor individual sifatlar bu..... layoqat",
+    },
+    {
+        title: "Shaxsning oqiganlari asosida mushoxada qilgan bilim va goyalari asosida yuritadigan fikrlash jarayoni bu......mantiqiy tafakkur",
+    },
+    {
+        title: "Shaxsning harakatlari va hayoti davomida hosil boladigan fikrlariga asoslangan tafakkuri bu.....amaliy tafakkur",
+    },
+    {
+        title: "Shaxsning korgan-bilgan narsasini aynan qanday bolsa, shundayligicha, ozgarishsiz qaytarish va shunday fikrlashi bu.......produktiv tafakkur",
+    },
+    {
+        title: "Shaxsdagi fikrlash elementlariga yangilik, noyoblik, qaytarilmaslik qoshilgandagi tafakkur bu.....ijodiy tafakkur",
+    },
+    {
+        title: "Tashqi faoliyat asosida psixik jarayonlarga otish hodisasi.... eksteriorizatsiya",
+    },
+    {
+        title: "Qaysi faoliyat turida bilimlar, malaka, turli konikmalar ozlashtiriladi? muloqot",
+    },
+    {
+        title: "Shaxs ongining narsa va hodisalarga yonalganligini aks ettiradigan psixik jarayon.....diqqat",
+    },
+    {
+        title: "Xotiraning samaradorligi nimaga bogliq? insondagi barcha psixik protsesslarning yaxshi rivojlanishiga",
+    },
+    {
+        title: "Qanday xayolni qayta tiklovchi xayol deb ataymiz...soz asosida yozilganlarga muvofiq keladigan obrazlar sistemasini yaratuvchi xayolga",
+    },
+    {
+        title: "Irodaga baho beruvchi tushunchani toping? ichki va tashqi tasirlarni yengish bilan bogliq bolgan tasirni tanlashda qobiliyatida namoyon boluvchi psixik aks ettirish formasi",
+    },
+    {
+        title: "Istedod nima? qobiliyatning eng yuqori formasi",
+    },
+    {
+        title: "Talant deb nimaga aytiladi? istedodning yuqori formasiga",
+    },
+    {
+        title: " Shaxs taraqqiyotining yetakchi kuchi nima? ehtiyojlarning qarama-qarshiligi va ularni qondirishning real imkoniyatlarining borligi",
+    },
+    {
+        title: "Oquvchi temperamentini hisobga olish nima uchun kerak? oquvchilar bilim samarasini oshirish uchun",
+    },
+    {
+        title: "Quyidagi tushunchalarning qaysi biri tafakkur formalariga kiradi? analiz, sintez, abstraksiy",
+    },
+    {
+        title: "Hissiyotga baho beruvchi tushunchani aniqlang.....yuksak ehtiyojlarni qondirish-qondirmasligi oqibatida obektiv borliqning ongda aks ettirilishi",
+    },
+    {
+        title: "Shaxsning irodaviy sifatlarini aniqlang?  jiddiy intiluvchanlik",
+    },
+    {
+        title: "Hissiyotni tashqi xususiyatlarda ifodalanishini aniqlang? stress, affekt,  yiglamsirash,  qorquv, kayfiyat",
+    },
+    {
+        title: "Hissiyot turlari berilgan javobni aniqlang?  manaviyat intellektual, estetik amaliyot",
+    },
+    {
+        title: "Irodaviy sifatlarga nimalar kiradi? mexnatsevarlik, izlanuvchanlik",
+    },
+    {
+        title: "Nima tafakkurning moddiy asosi hisoblanadi? nutq",
+    },
+    {
+        title: "Mexanik esda olib qolish deb nimaga aytiladi? manosini tushunmasdan esda olib qolishga",
+    },
+    {
+        title: "Assotsiatsiya nima? biz idrok qilgan, ongimizda aks ettiradigan va xotiramizda mustahkamlanib qolgan turlicha narsalar va hodisalar ortasidagi boglanish",
+    },
+    {
+        title: "Xotira protseslari nimadan iborat? esga olib qolish, esda saqlab turish, qayta esga tushurish, unutish",
+    },
+    {
+        title: "Xayol nima? odamning ongida ilgaridan bor bolgan vaqtli oraliqning qaytadan tiklashi va bir - bilari bilan yangicha kirishi orqali yangi narsa va hodisalardan, obrazlardan hosil qilinishiga aytiladi",
+    },
+    {
+        title: "Affekt nima ? tosatdan paydo bolib, tez orada otib ketadigan, nisbatan kuchli hissiy holatdir",
+    },
+    {
+        title: "Hissiy holatlar va ularni turlariga nimalar kiradi? kayfiyat, affekt va ehtiros",
+    },
+    {
+        title: "Temperament deb nimaga aytiladi?   kishining tugma xususiyatlari bilan bogliq bolgan individual umumiy xususiyatlariga aytiladi",
+    },
+    {
+        title: "Motiv deganda nimani tushunasiz?   harakatni amalga oshiradigan tashqi sabablar",
+    },
+    {
+        title: "Irodaviy harakatlarning asosiy motivlari nimadan iborat?   nimaga intilayotganligini anglash, maqsad va vositalarni tanlash, qarorga kelish, qarorni bajarish",
+    },
+    {
+        title: "Iroda deb nimaga aytiladi? oldindan belgilangan qatiy bir maqsad asosida amalga oshiriladigan va ayrim qiyinchiliklarni yengish bilan bogliq bolgan harakat tushuniladi",
+    },
+    {
+        title: "Orzu nima?   oldindan belgilangan iroda kuchini sarf qilib, muayyan faraz va tasavvurni amalga oshirish",
+    },
+    {
+        title: "Xayol turlarini aniqlang ?   tasavvur, xayol, ijodiy xayol, ixtiyoriy va ixtiyorsiz xayol",
+    },
+    {
+        title: "Talant deb nimaga aytiladi?  istedodning yuksak taraqqiyoti",
+    },
+    {
+        title: "Istedod deb nimaga aytiladi? odamlarning qobiliyatlarida namoyon boladigan tugma layoqatiga istedod deyiladi",
+    },
+    {
+        title: "Xarakter deb nimaga aytiladi? odamning yashash sharoitlari va talim tarbiyaning tasiri ostida tarkib topgan hamda tevarak atrofdagi, narsalarga boshqa odamlar va oziga bolgan munosabatlarda namoyon boladigan individual xususiyatiga aytiladi",
+    },
+    {
+        title: "Temperament tiplariga qaysilar kiradi? xolerik, sangvinik, flegmatik, melanxolik",
+    },{
+        title: "Hissiyotning nerv fiziologik asosini nima tashkil etadi? bosh miya postloq osti faoliyati va vegatitiv nerv sistemasi",
+    },
+    {
+        title: "Hissiyot nima?  tashki olamdagi narsa va xodisalarga nisbatan bolgan munosabatlarimizni va bu munosabatlarimizdan hosil bolgan ichki kechinmalarimizning yuzaga kelishi.",
+    },
+    {
+        title: "Tafakkurning nerv fiziologik asosini nima tashkil etadi? bosh miya postining butun faoliyati",
+    },
+    {
+        title: "Analiz qilish nima? narsa va hodisalarga xos bolgan munosabatlardan bittasini qismlarga ajratib olish",
+    },
+    {
+        title: "Tafakkur protsesslariga nimalar kiradi? taqqoslash, analiz va sintez,  abstraksiyalash, umumlashtirish",
+    },
+    {
+        title: "Tafakkur deb nimaga aytiladi? narsa va hodisalarning ortasidagi eng muhim boglanishlar va munosabatlarni ongimizda aks ettirilishi",
+    },
+    {
+        title: "Xotira tasavvuri deb nimaga aytiladi? ilgari idrok qilingan yani ilgari oz shaxsiy tajribamizda bolgan lekin hozirgi koz ongimizda bolmagan narsalarni obrazlarini ongimizda gavdalantirishga",
+    },
+    {
+        title: "Appersepsiya nima? odamning butun manaviy hayot boyligi tajribasining kopligi",
+    },
+    {
+        title: "Illyuziya nima? tasir etayotgan narsalarni yanglish idrok etish",
+    },
+    {
+        title: "Idrok deb nimaga aytiladi? sezgi azolarimizga tasir etib turgan narsalarning yaxlit obrazini miyada aks etishi",
+    },
+    {
+        title: "Idrokni nerv fiziologik asosi nima? idrokni nerv fiziologik asosi bosh miya postining analiz sintez faoliyatidan iborat",
+    },
+    {
+        title: "Idrokning murakkabligi nimada? ayni vaqtda bir necha sezgilarni ishtirokida",
+    },
+    {
+        title: "Sezgi turlari qaysilar?   korish, eshitish, hid bilish, tam bilish, teri tuyush sezgisi",
+    },
+    {
+        title: "Monologik nutq nima? faqat 1 ta odam tomonidan amalga oshiriladigan nutqdir",
+    },
+    {
+        title: "Nutqning fiziologik asosi…….bosh miya postidagi alohida markazlarning faoliyatidir",
+    },
+    {
+        title: "Inson nerv sistemasi qanday tuzilgan? markaziy, pereferik, vegitativ nerv sistemalaridan",
+    },
+    {
+        title: "Diqqatning xususiyatlari qaysilar? diqqatning barqarorligi, vibratsiya, bolinishi,  parishonxotirlik",
+    },
+    {
+        title: "Nutq deb nimaga aytiladi? odamlarning ozaro muomala vositasi",
+    },
+    {
+        title: "Muvaffaqiyatlashtirilgan diqqat deganda nimani tushunasiz? ongli suratda kozlangan maqsadlar bilan bogliq bolgan va ongli qiziqishlar bilan qollab turiladigan diqqatga",
+    },
+    {
+        title: "Diqqatning asosiy turlari qaysi? ixtiyoriy-ixtiyorsiz muvaffaqqiyatlashtirilgan",
+    },
+    {
+        title: "Shaxsning individualligi deganda nimani tushunasiz? shaxsning takrorlanmas psixik xususiyatlari yigindisi",
+    },
+    {
+        title: "Kichik guruhlar qaysi metodlar yordamida organiladi? eksperiment, kuzatish",
+    },
+    {
+        title: "Gruppalarning asosiy turlarini aniqlang? real, shartli",
+    },
+    {
+        title: "Faoliyatni asosiy turlarini aniqlang? oyin, oqish, mehnat",
+    },
+    {
+        title: "Malaka deb nimaga aytiladi? odamdagi maqsadga muvofiq harakatlarning amalga oshirilishi va boshqarilishining qisman avtomatlashuviga",
+    },
+    {
+        title: "Malaka strukturasi nimadan iborat? harakatlarni ijro qilish usullarining ishini bajarishda yani hissiyotni nazorat qilish usullarining ish amaldagi markaziy boshqaruvchi usullarining ozgarishidan",
+    },
+    {
+        title: "Faoliyat deb nimaga aytiladi? anglagan maqsad bilan boshqariladigan odamning ichki psixik va tashqi jismoniy aktivligiga",
+    },
+    {
+        title: "Faoliyatni o‘zlashtirish qanday yuzaga keldi? faoliyat usullari ijro qilish, nazorat qilish va boshqarishda",
+    },
+    {
+        title: "Faoliyat struktari nimalardan iborat? harakatni boshqarish va nazorat qilish",
+    },
+    {
+        title: "Psixologiya fanining yordamchi metodlari qaysilar? faoliyat mahsulotlarini organish, biografik metod,  egizaklarni organish metodi, sotsiometrik, modellashtirish, anketa, test",
+    },
+    {
+        title: "Shaxsning taraqqiyotini harakatlantiruvchi kuchlar, faktorlar qaysilar? shaxsning psixik taraqqiyotining harakatlantiruvchi kuchlari odamning oz faoliyati davomida ozgarishi",
+    },
+    {
+        title: "Motivatsiya nima? ehtiyojlarni malum turini qondirish bilan bogliq bolgan faoliyatga moyillik",
+    },
+    {
+        title: "Ehtiyojlar qanday klassifikitsiyalanadi? xarakteriga, paydo bolishiga, predmetiga kora",
+    },
+    {
+        title: "Inson shaxsning aktivligi qanday namoyon boladi? tevarak atrofdagi odamlar bilan boladigan ozaro munosabat jarayonidagi faoliyatda",
+    },
+    {
+        title: "Psixologiyada shaxs tushunchasi deb nimaga aytiladi? jamiyatda rivojlanuvchi til yordamida boshqa odamlar bilan munosabatga kirishuvchi voqeiylikni biluvchi hamda aktiv ozgartuvchi subektga",
+    },
+    {
+        title: "Individ deganda nimani tushunasiz? hayot uchun yol tanlash, bu yolni egallashda, hayotda oz mavqei va ornini anglay oluvchi shaxsga",
+    },
+    {
+        title: "Sezgi psixologik hodisalarning qaysi guruhiga (turkumga) kiradi? psixik jarayonlarga",
+    },
+    {
+        title: "Barcha psixologik hodisalar tort guruhga bolinadi. Quyida tushirib qoldirilganligini toping: psixik holatlar, psixik jarayonlar, psixik hususiyatlar,… individual-psixik xususiyatlar",
+    },
+    {
+        title: "Qobiliyat, psixologik hodisalarning qaysi guruhi (turkumi)ga kiradi? psixik xususiyatlarga",
+    },
+    {
+        title: "Kishining psixologik xususiyatlarini maxsus tuzilgan savollarni oz ichiga savolnomalar yordamida organish? test",
+    },
+    {
+        title: "Savollarga ularning javob variantlari berilgan anketalar qanday tipdagi anketalar deyiladi? sotsiologik tipdagi",
+    },
+    {
+        title: "Kishining aqliy rivojlanish darajasini organish uchun qollaniladigan testlar qanday testlar deyiladi? intelekt testlar",
+    },
+    {
+        title: "Individual hayot davomida orttirilgan hatti-harakat shakllari…  konikmalar",
+    },
+    {
+        title: "Ongning rivojlanish tarkibiga quyidagilar kiradi:........... bilim, munosabat, ozini anglash, maqsad",
+    },
+    {
+        title: "Ongli maqsad bilan boshqariladigan aqliy va jismoniy faol hatti-harakatlar bu….  oyin",
+    },
+    {
+        title: "Maqsadga muvofiq harakatlarning amalga oshirilishi va boshqarilishining qisman avtomatlashuvi…..deyiladi    .faoliyat",
+    },
+    {
+        title: "Malum faoliyatni amalga oshirish uchun zarur bolgan psixik yoki amaliy ish harakatlar tizimini egallash…........deyiladi...konikma",
+    },
+    {
+        title: "Faoliyatning asosiy turlari: oqish, …oyin. Tushirib qoldirilgan turini korsating?  mehnat",
+    },
+    {
+        title: "Faoliyat asosini tashkil qiluvchi, hatti- harakatga undovchi kuch? motiv",
+    },
+    {
+        title: "Biror tashkilot tomonidan tuzilib, tasdiqlangan guruhga qanday guruh deyiladi? rasmiy",
+    },
+    {
+        title: "Guruhning ichki tuzilishi ikki xil boladi: rasmiy va ……? norasmiy",
+    },
+    {
+        title: "Harakatlar yoki harakatlar sistemasini esda olib qolish, esga tushirish, esda saqlash bu......obrazli xotira",
+    },
+    {
+        title: "Shaxsning psixologik xususiyatlarining yosh ozgarishi davomidagi dinamikasini organuvchi fan…..........dir   yosh davrlari psixologiyasi",
+    },
+    {
+        title: "Narsa va hodisalarni fikran qismlarga ajratish bilan bogliq bolgan tafakkur jarayoni?   sintez",
+    },
+    {
+        title: "Yoshlarning ijtimoiy, psixologik va fiziologik jihatdan tez rivojlanish hodisasi…........emansipatsiya",
+    },
+    {
+        title: "Mustaqillikka intilish….........yoshining asosiy psixologik xususiyatidir. osmirlik yoshining",
+    },
+    {
+        title: "Verbal muloqot bu......... soz orqali muloqot",
+    },
+    {
+        title: "Noverbal muloqot bu....... sozsiz muloqot",
+    },
+    {
+        title: "Rahbar psixologiyasida boshqaruvning qanday turlari mavjud? avtoritar, demokratik, liberal, parsitipativlik",
+    },
+    {
+        title: "Kommunikativ muloqot deb nimaga aytiladi?  ozaro axborot almashinuv jarayoniga",
+    },
+    {
+        title: "Muloqotning perseptiv tomoni deb nimaga aytiladi? muloqot jarayonida kishilarning bir birini idrok qilishiga",
+    },
+    {
+        title: "Muloqotning interaktiv tomoni deb nimaga aytiladi? muloqot jarayonida kishilarning ozaro muloqotga tez kirishib ketishi",
+    },
+    {
+        title: "Yosh xususiyatlari quyidagilar orqali baholanadi: yoshning ijtimoiy,…............   biologik xususiyatlari.   fiziologik",
+    },
+    {
+        title: "Oqitish metodlari quyidagi guruhlarga bolinadi: korgazmali, interaktiv, programmali va..............…(tushirib qoldirilganligini toping). ogzaki sorash",
+    },
+    {
+        title: "Oquvchi shaxsini har tomonlama (manaviy, jismoniy, estetik, psixologik va h.k) rivojlantirishga yonaltirilgan jarayon?  talim",
+    },
+    {
+        title: "Oquvchilarda malum bilim, konikma va malakalarni rivojlantirishga yonaltirilgan oquvchi va pedagoglarning hamkorlikdagi faoliyati bu........oqish",
+    },
+    {
+        title: "Pedagogning ogir oquv materiallarni yengil, tushunarsizni-tushunarli, murakkabni oddiy qilib bera olish qobiliyati bu............kommunikativ muloqot",
+    },
+    {
+        title: "Biror nazariy yoki amaliy ishni muvaffaqiyatli bajarish shartlaridan biri bolib, kishining tajribasiga, bilimiga, tugma imkoniyatlariga bogliq ravishda shakllanadigan xususiyat nima? talent",
+    },
+    {
+        title: "Psixologik xizmat mazmuni qanday? psixoprofilaktika va psixokorreksiya",
+    },
+    {
+        title: "Bola shaxsining shakllanishini qanday omillar belgilaydi? biologik va ijtimoiy omillar",
+    },     
 ]
