@@ -599,4 +599,364 @@ let search = [
     {
         title: "Hozirgi kunda ijtimoiy psixologiya fani hal etayotgan masalalar.       Kadrlar tayyorlash va joy-joyiga qo’yish, nizo va oila muammolari, muomala va raxbar xodimlar o’rtasidagi munosabatlar.",
     },
+    {
+        title: "Psixologiya fan sifatida nimani o'rganadi?         Ongning xususiyati sifatida psixikaning dalillarini, qonuni va mexanizmlarini o'rganadi",
+    },
+    {
+        title: "“Pedagogika” fanining mustaqil fan sifatida rivojlanishiga qaysi olim hissa qo'shgan?   Ya.A. Komenskiy ",
+    },
+    {
+        title: "Psixika deb nimaga aytiladi?    Yuksak darajada tashkil topgan materiyaning xususiyati bo'lib, u tashqi olamni o'ziga xos yo'sinda aks ettirilishi.",
+    },
+    {
+        title: "Leksiya, praktikumlar, laboratoriya mashg'ulotlari, seminarlar, konsultatsiyalar ta'limni tashkil etishning qaysi shakliga misol bo'la oladi?     Asosiy",
+    },
+    {
+        title: "Pedagogik navotorlik – bu qanday xodisa?   Yashirin, ijtimoiy-ruhiy xodisa	",
+    },
+    {
+        title: "Bola shaxsi necha yoshdan shakllananadi?    3 yoshdan shakllananadi",
+    },
+    {
+        title: "O`quvchi intellekti – bu ... ?   O`quvchining aqliy salohiyatidir",
+    },
+    {
+        title: "Shaxslararo munosabatlar bu -……?    Odamlar o'rtasida faoliyat va guruhlardagi muloqot jarayonida kelib chiqadigan munosabatlardir.",
+    },
+    {
+        title: "O'quvchining xotirasi bu-……?   O'quvchining o'tmish tajribalarini esda olib qolish, esda saqlash va qayta tiklash va unutish bilan bogliq bo'lgan psixik jarayondir	  ",
+    },
+    {
+        title: "Sotsiometrik metod qanday usulda qo'llaniladi?   Anketa, savol- javob	",
+    },
+    {
+        title: "Shas komilligini belgilovchi sifatlarga nimalar kiradi?    Jismoniy salomatlik, ahloqiy poklik, aqliy etuklik",
+    },
+    {
+        title: "Tiflopedagogika qaysi tipdagi nogiron bolalarni o'qitadi?    Ko'zi ojiz bolalarni o'qitish",
+    },
+    {
+        title: "Ijtimoiy xodisa sifatida tarbiyaning mohiyati nimadan iborat?       Insoniyat to'plagan ijtimoiy – ma'naviy tajribalarni yosh avlodga o'rgatish orqali ularni hayotga, mehnatga tayyorlash.",
+    },
+    {
+        title: "“Tarbiya bizlar uchun yo hayot - yo mamot, yo najot -yo xaloqat, yo saodat, yo faloqat masalasidir”. Yuqoridagi fikrlar kimning fikrlari?       Abdulla Avloniy ",
+    },
+    {
+        title: "Psixologiyada asosiy metodlarga qaysi metodldr kiradi?      Kuzatish va eksperiment metodi ",
+    },
+    {
+        title: "Tarbiyaning tarixiy xarakteri deganda nima tushunasiz?      Jamiyatning ijtimoiy – iqtisodiy taraqqiyoti bilan bog'liq holda tarbiya xarakteri, mazmuni, vazifalari, metodlarining o'zgarib borishi.",
+    },
+    {
+        title: "Umuminsoniy tarbiyaviy qadriyatlarga nimalar kiradi?        Barcha xalqlar uchun umumiy bo'lgan ilg'or tarbiyaviy g'oyalar, an'nala",
+    },
+    {
+        title: "Pedagogika fanining asosiy tushunchalari qaysilar?      Tarbiya, ta'lim, ma'lumot. Rivojlanish, shakllanish",
+    },
+    {
+        title: "Qobiliyatni nima tashkil etadi?     Layoqat, iqtidor, iste'dod    ",
+    },
+    {
+        title: "Pedagogik xodisa sifatida tarbiyaning mohiyati nimadan iborat?      Shaxsni ijtimoiy tajribani egallash bo'yicha faoliyatini tashkil etishdan iborat va maqsadga qara tilgan ongli ravish da amalga oshiriladi gan pedagogik  jarayon    ",
+    },
+    {
+        title: "Ta'lim deb nimaga aytiladi?     Bu o'quvchilarni bilim, ko'nikma malakalarni egallashi, ijodiy qobiliyatlar ini o'stirish    ",
+    },
+    {
+        title: "“Jadid” so'zining ma'nosi qanday ma'noni bildiradi?     “Jadid” so'zi arabcha so'z bo'lib,”yangi” degan ma'noni bildiradi    ",
+    },
+    {
+        title: "Kuzatish metodi qanday qo'llaniladi?        Oddiy tabiiy sharoitda qo'llaniladi    ",
+    },
+    {
+        title: "Yosh davrlari psixologiyasi nimalarni o'rganadi?    Har bir yosh davrlari bosqichlarini o'rganadi    ",
+    },
+    {
+        title: "Psixologiyada tadqiqot tajribalar avvalo kimlarda o'tkaziladi?      Hayvonlarda ya'ni it, sichqon, parrandalarda o'tkaziladi    ",
+    },
+    {
+        title: "Ta'limning mazmuni qanday manbalarda aks ettiriladi?        Ta'limning mazmuni: o'quv rejalarida, dasturlarda va darsliklarda aks ettiriladi.    ",
+    },
+    {
+        title: "Hayvonlar psixologiyasini psixologiyaning fan sifatida rivojlangan qaysi tarmog'i o'rganadi?        Hayvonlar psixologiyasi    ",
+    },
+    {
+        title: "O'quv fan dasturi deganda nimani tushunasiz?        Ta'lim mazmuni uning talabalar tomonidan o'zlashtirilishining eng maqbul  usullari, axborot manbalari ko'rsatilgan me'yoriy hujjat    ",
+    },
+    {
+        title: "Anketa metodi orqali ma'lumotlar to'liq olinadimi?      Qisman olinadi    ",
+    },
+    {
+        title: "Qaysi yosh davrlarida bolada mantiqiy xotira kuchli bo'ladi?        Bog'cha yoshi davrlarida    ",
+    },
+    {
+        title: "Pedagogika fanining asosiy o'rganish obektlarini aniqlang?      Odamni anatomik – fiziologik jihatdan o'sishida, psixikasida, bilish qobiliyati, xulqi, ijtimoiy – siyosiy qarashlari da ro'y beradigan miqdor va sifat o'zgarishlar jarayoni.    ",
+    },
+    {
+        title: "Pedagogika fanining asosiy tarmoqlarini aniqlang?       Umumiy pedagogika, maktabgacha tarbiya pedagogikasi, o'rta  maktab pedagogikasi, maxsus pedagogika. ",
+    },
+    {
+        title: "Pedagogik ilmiy – tadqiqot metodlari qaysilar?      Kuzatish. Suxbat, anketa, maktab xujjatlarini o'rganish.",
+    },
+    {
+        title: "Odamning u yoki bu ehtiyojlarini qondiradigan faol xatti-harakatlariga nima deyiladi?       Faoliyat deyiladi",
+    },
+    {
+        title: "Shaxsning irsiyat, muhit, tarbiya ta'sirida shakllanishiga nima deyiladi?       Shaxs rivojlanishi va tarkib topishning asosiy omillari deyiladi",
+    },
+    {
+        title: "Shaxslarapo munosabatlarni psixologiyaning fan sifatida rivojlangan qaysi tarmog'i o'rganadi?       Ijtimoiy psixologiya    ",
+    },
+    {
+        title: "Pedagogika fanining metodologik asoslari deganda nimani tushinasiz?     Oliy pedagogik xodisalarni tadqiq qilishda qo'llanma bo'ladigan ilmiy – falsafiy g'oyalar, ilmiy meros.    ",
+    },
+    {
+        title: "Diqqat tushinchasiga berilgan to'gri  javobni toping?       Ongning biron bir predmet, hodisa yoki faoliyatga qaratilishi hamda to'planishidir.    ",
+    },
+    {
+        title: "Ta'lim tushinchasiga berilgan to'gri  javobni toping?       Ta'lim - ma'lum maqsadga yo'naltirilgan, rejali ravishda amalga oshiriladigan pedagog-talaba-pedagog muloqotidir    ",
+    },
+    {
+        title: "Abu Ali Ibn Sino bola tarbiyasini qaysi yoshdan boshlash lozim deb aytgan?      Go'daklik davridan    ",
+    },
+    {
+        title: "O'qitish jarayonida nazoratning rivojlantiruvchi funksiyasi qaysilar?       O'z-o'zini nazorat qilish va baholash;    ",
+    },
+    {
+        title: "Sezgi tushinchasiga berilgan to'gri  javobni toping?        Tashqi ta'sirlarni tegishli retseptorlar orqali markaziy nerv sistemasiga borishi va undan qaytadigan javob reaksiyasiga aytiladi.    ",
+    },
+    {
+        title: "Ekologiya so'zi qanday ma'noni anglatadi?       Uy, uyning tomi degan ma'noni anglatadi    ",
+    },
+    {
+        title: "Idrok deb nimaga aytiladi?      Sezgi a'zolarimizga ta'sir etayotgan narsa va hodisalarning miyamizda yaxlit holicha aks etishiga aytiladi.    ",
+    },
+    {
+        title: "O'qituvchi va o'quvchi o'rtasidagi ikki tomonlama jarayonga nima deyiladi?      Tarbiya jarayonining o'ziga xos xususiyatlari deyiladi    ",
+    },
+    {
+        title: "Tarbiya jarayoni qanday bosqichlardan iborat?    O'quvchilarni umumiy talab va me'yorlar bilan tanishtirish, qarash va e'tiqodlarni shakllantirish, amaliy ko'nikma va malakalarni tarkib toptirish.    ",
+    },
+    {
+        title: "O'quvchining tarbiyalanganlik darajasini nimalarga qarab bilish mumkin?         O'quvchida tarbiyaga tegishli bilimlar mavjudligida, bu bilimlarni o'z faoli yati va hatti – harakatlarida ko'rsata olishida    ",
+    },
+    {
+        title: "“Texnologiya” tushunchasining to'gri ta'rifini toping?      Texnologiya - tayyor maxsulot olish uchun ishlab chiqarish jarayonlarida    qo'llaniladigan usul va metodlar majmui    ",
+    },
+    {
+        title: "Tarbiya prinsiplari deb nimaga aytiladi?        Tarbiyachi tarbiyaviy ishda amal qilishi zarur bo'lgan asosiy qoidalarga aytiladi.    ",
+    },
+    {
+        title: "Milliy tarbiya deganda nimani tushinasiz?       Xar bir xalqning o'z milliy madaniyati. tili, tarixi, urf – odatlari, milliy me'rosi    ",
+    },
+    {
+        title: "Ta'lim-tarbiya jarayonida biz o'quvchi talabalar ongi, qalbiga qaysi g'oyalarni singdiramiz?        Hammasi to'g'ri    ",
+    },
+    {
+        title: "Xotira deb nimaga aytiladi?     O'tmish tajribamizni esda olib qolish, esda saqlash va unitish jarayoniga aytiladi    ",
+    },
+    {
+        title: "“Fozil odamjar shaxri” azari qaysi allomaga tegishli?       Farobiy    ",
+    },
+    {
+        title: "Tafakkur deb nimaga aytiladi?       Voqelikni taxlil qilib va sintezlashda uni bavosita, umumlashtirib aks ettirish jarayonidir.    ",
+    },
+    {
+        title: "Dunyoqarash deb nimaga aytiladi?        Kishilarning tevarak-atrofdagi voqelika munosabatini belgilovchi bilimlari, qarashlari, e'tiqodlari va ideallar tizimiga aytiladi.    ",
+    },
+    {
+        title: "Huquqiy tarbiyaning vazifalari nimalardan iborat?       O'quvchilarni  O'zbekiston Konstitutsiyasi, qonunlari bilan tanishtirishularga amal qilishga urgatishdan iborat.    ",
+    },
+    {
+        title: "O'qituvchining akademik qobiliyati nima?        O'z fanini chuqur va keng hajmda bilish va darsda predmetlararo bog`lanishlarni amalga oshirish.    ",
+    },
+    {
+        title: "Nutq deb nimaga aytiladi?       Kishilarning til vositasidagi o'zaro munosabatda bo'lish jarayoni.    ",
+    },
+    {
+        title: "O'qituvchining kommunikativ qobiliyati nima?        O'quvchilar bilan til topisha olish, o`z suhbati va so`zlari bilan ularni qiziqtira olish va jalb eta olish.    ",
+    },
+    {
+        title: "Hayol deb nimaga aytiladi?      Ilgari idrok qilmagan predmet va hodisalarni yaratishdan iborat psixik jarayon.  ",
+    },
+    {
+        title: "Hissiyot tushunchasiga berilgan to'gri javobni toping?      Odamlarning o'zi bilayotgan va bajarayotgan narsaga o'z munosabatini boshdan kechirishi.    ",
+    },
+    {
+        title: "Abdulla Avloniy qachon va qayerda o'zining yangi usuldagi o'quv muassasasiini ochdi?        1907-yilda Toshkentning “Mirobod” ma'allasida;    ",
+    },
+    {
+        title: "Iroda tushunchasiga berilgan to'gri javobni toping?     Kishining o'z oldiga qo'ygan maqsadga erishish uchun to'siqlarni harakat yordamida yengish vaqtida vujudga keladigan psixik jarayon.    ",
+    },
+    {
+        title: "O'quvchilarda hosil bo'ladigan motivlarning kuchli yoki kuchsiz bo'lishi nimaga bog'liq?        O'qituvchining pedagogik mahoratiga bog'liq    ",
+    },
+    {
+        title: "Temperamentning qanday tiplari mavjud?      Xolerik, sangvinik, melanxolik, flegmatik",
+    },
+    {
+        title: "Xarakter tushunchasiga berilgan to'gri lavjoni toping?      Kishining hulq-atvorida namoyon bo'ladigan tug'ma xususiyat.",
+    },
+    {
+        title: "Hadis ilmining rivojiga katta hissa qo'shgan muhaddislarni aniqlang?        Muborak al-Marvaziy, Imom al-Buxoriy, Imom at-Termiziy.    ",
+    },
+    {
+        title: "Qobiliyat tushunchasiga berilgan to'gri jlavobni toping?        Bilimlarni, ko'nikma va malakalarni nisbatan osonlik bilan egallab oladigan va biror faoliyat bilan muvaffaqiyatli shuqullanish mumkin bo'lgan individual psixologik xususiyatdir.    ",
+    },
+    {
+        title: "Ya.A Kamenskiy didaktikani qanday ta'riflagan?      “ Hammani hamma narsaga universal o'qitish san'ati”",
+    },
+    {
+        title: "Bilish jarayonlarini ko'rsatib bering?      Sezgi, diqqat, xotira, idrok, tafakkur, nutq, xayol",
+    },
+    {
+        title: "Turkistonda jadidchilik harakatining yirik vakillari kimlar?        M.Behbudiy, Munavvar Qori Abdurashidov, Ibrat, A.Avloniy, Cho'lpon    ",
+    },
+    {
+        title: "XX asr boshlarida Pedagogika qaysi fanlar tizimidan fan sifatida ajralib chiqqan?       Falsafa",
+    },
+    {
+        title: "Ta`lim va tarbiya jarayonini yaxlitlikda qaysi fan o'rganadi?       Pedagogika",
+    },
+    {
+        title: "Pedagogikaning  maxsus tarmog'i tiflopedagogika kimlar bilan shug'ullanadi?     ko'zi ojiz tarbiyalanuvchilar ta'lim-tarbiyasi  bilan shug'ullanuvchi    ",
+    },
+    {
+        title: "Pedagogika fanining obyekti qaysi qatorda keltirilgan?      Yaxlit pedagogik jarayon    ",
+    },
+    {
+        title: "Pedagogika fanining predmeti nimadan iborat?        Pedagogik muhit – pedagogik maqsadlarga muvofiq ravishda maxsus tuzilgan shaxslararo munosabatlar tizimidir.    ",
+    },
+    {
+        title: "Maktabgacha yoshdagi bolaning asosiy faoliyati asosan qaysi faoliyat turidan iborat?        O'yin.    ",
+    },
+    {
+        title: "Pedagogikanig asosiy kategoriyalaridan biri bo'lgan tarbiyaga qaysi qatorda to'g'ri ta'rif  berilgan?       O'quvchilami nazariy bilim, amaliy ko`nikma va malakalar bilan qurollantirish, kompetentlikni tarkib toptirishga yo'naltirilgan jarayon.    ",
+    },
+    {
+        title: "Muayyan harakat yoki faoliyatni bajarishning avtomatlashtirilgan shakliga nima deyiladi?        Malaka  ",
+    },
+    {
+        title: "Bilim deb nimaga aytiladi?      O'quvchilar ta'lim jarayonida o'zlashtirishi lozim bo'lagn o'quv material lariga  aytiladi.    ",
+    },
+    {
+        title: "Ko'nikma deb nimaga aytiladi?       O'quvchilarning o'zlashtirgan bilimlarini amalda qo'llash usullarini  egallashlariga  aytiladi.    ",
+    },
+    {
+        title: "Pedagogik qobiliyatga ta'rif berilgan to'gri javobni toping?          Didaktik, akademik nutq, tashkilotchilik, kommunikativ, pedagogik xayol, diqqqatni taqsimlay olish, avtoritar qobiliyat..        ",
+    },
+    {
+        title: "Ta'lim jarayoning tarkibiy qismlariga nimalar kiradi?      O'quv materialini   idrok qilish,  uni tushunish,  umulashtirish, amalda       qo'llash",
+    },
+    {
+        title: "O'qituvchining asosiy vazifalariga nimalar kiradi?     Ta'lim, tarbiya, rivojlanish, shakllantirish jarayonini boshqarish",
+    },
+    {
+        title: "Ta'limning tashkiliy shakllarini aniqlang?    Dars, umumiy ta'lim, ekskursiya, kasbiy ta'lim, oliy ta'lim.",
+    },
+    {
+        title: "Ta`lim-tarbiya natijasida o`zlashtirilgan va tizimlashtirilgan bilim, hosil qilingan ko`nikma va malakalar hamda tarkib topgan dunyoqarash majmuiga nima deyiladi?    Ma'lumot",
+    },
+    {
+        title: "Pedagogikaning boshqa fanlar bilan aloqadorligi mavjud bo`lmagan fan qaysi qatorda keltirilgan?    Mantiq",
+    },
+    {
+        title: "Psixikaning namoyon bo'lish shakllariga nimalar kiradi?    Psixik jarayonlar, psixik holatlar va shaxsning individual xususiyatlari",
+    },
+    {
+        title: "Bolalar psixologiyasi fanida eng ko'p qaysi metod qo'llaniladi?    Bolalar ijodini o`rganish test metodi   ",
+    },
+    {
+        title: "Test metodi orqali nimalar aniqlanadi?     Qisqa vaqt ichida bajarilishi lozim bo'lgan vazifa bo'lib uning bajarilishi ba'zi bir vazifalar mukammalligining ko'rsatgichi aniqlanadi    ",
+    },
+    {
+        title: "Kuzatish metodi orqali nimalar aniqlanadi?     Psixologik dalilni aniq namoyon qilishga yordam beradigan sharoitni yuzaga keltirish maqsadida tadqiqotchining tekshiriluvchi faoliyati aniqlanadi ",
+    },
+    {
+        title: "“Agar pedagog odamni har jihatdan tarbiyalashni istar ekan, u eng avvalo o'sha tarbiyalanadigan odamni har tomonlama bilmog'i kerak”- bu fikr kimga mansub?     K. D. Ushinskiy.    ",
+    },
+    {
+        title: "O'quvchilarning ijodiy faoliyatini tashkil etishda qanday metodlardan foydalanish maqsadga muofiq?      Ilmiy-tadqiqot metodi    ",
+    },
+    {
+        title: "«Shaxsning ijtimoiylashuv jarayoni» deb nimaga aytiladi?        Inson tomonidan ijtimoiy tajribani egallash va hayot - faoliyat jarayonida uni faol tarzida o'zlashtirish jarayoni.    ",
+    },
+    {
+        title: "“Inson kamolotida uch narsa – irsiyat, muhit, tarbiya muhim rol   to'ynaydi” degan fikrlar muallifi kim?        Ibn Sino    ",
+    },
+    {
+        title: "Faoliyat mahsulini o'rganish metodi orqali nimalar aniqlanadi?      Faoliyat mahsulini o'rganish metodi orqali nimalar aniqlanadi?Inson faoliyatining o'sish ko'rsatkichi aniqlanadi",
+    },
+    {
+        title: "Anketa metodi orqali nimalar aniqlanadi?        Yozma ravishda berilgan savollarga javob olish va uning natijasini tahlil qilinadi va aniqlanadi    ",
+    },
+    {
+        title: "Faoliyat turlari nimalardan iborat?     O'yin, o'qish, mehnat.    ",
+    },
+    {
+        title: "Ta'lim-tarbiyaga tadqiqiy ijodiy yondashuvning maqsadi nimadan iborat?      Bu yondashuv ta'limning maqsadi, talabada biror muammoni yechish qobiliyatini o'stirish, yangi bilimni mustaqil o'zlashtirish, harakatning yangi usullarini topish, shaxsning tashabbus ko'rsatishi    ",
+    },
+    {
+        title: "Faoliyat tushinchasi nimalarni o'z ichiga oladi?        Odamning u yoki bu ehtiyojlarini qondiradigan faol xatti-harakatni    ",
+    },
+    {
+        title: "An'anaviy ta'limning asosiy kamchiligini ko'rsating?        Talabaning aqliy, ijodiy, kommutativ bilim olishini  yetarlicha ta'minlanmaydi.    ",
+    },
+    {
+        title: "Shaxs tushunchasiga to'gri javobni toping?      ijtimoiy munosabatlarga kirishuvchi va ijtimoiy taraqqiyotda faol qatnashuvchi odam.    ",
+    },
+    {
+        title: "Diqqatning asosiy xususiyatlari nimalardan iborat?     Diqqatning barqarorligi, ko'lami, taqsimlanishi va kuchi   ",
+    },
+    {
+        title: "Idrok xususiyatlari nimalardan iborat?      javoblarning barchasi to'gri",
+    },
+    {
+        title: "Bola to'g'ri yurishni, muloqotga kirishishni, predmetli faoliyatni egallash xususiyatlarni qaysi davrda egallaydi?      Ilk bog'cha yoshi davrida    ",
+    },
+    {
+        title: "Nutq deb nimaga aytiladi?       Kishilarning til vositasidagi o'zaro munosabatda bo'lish jarayoni    ",
+    },
+    {
+        title: "O'quv faoliyati – bu shunday faoliyatki,……….. ?     Unda shaxsning psixik jarayonlari shakllanadi va rivojlanadi, uning asosida yangi faoliyatlar yuzaga keladi    ",
+    },
+    {
+        title: "Temperament tushunchasiga berilgan togri javob qaysi?      Shaxsning xulq-atvorida va hatti-harakatida namoyon bo'ladigan oliy asab faoliyatining tug'ma xususiyatidir    ",
+    },
+    {
+        title: "Sezgi a'zolari axborotni…...?           Saralaydi, jamlaydi, miyaga etkazadi    ",
+    },
+    {
+        title: "O'qituvchining asosiy vazisini kursating?       Maqsadga yo'naltirish    ",
+    },
+    {
+        title: "Sezgi psixik hodisalarning qaysi guruhiga mansub?       Psixik jarayonlarga    ",
+    },
+    {
+        title: "O'quv qo'llanmasining darslikdan farq qiluvchi jihatini toping?      Muayyan mavzularni darslikka nisbatan kengroq yoritadi    ",
+    },
+    {
+        title: "Psixologiya fanining asosiy tadqiqot metodlari qaysilar?        Kuzatish, eksperiment, anketa, test, sotsiometriya, suhbat, labaratoriya    ",
+    },
+    {
+        title: "Individual ta'lim deganda nimani tushinasiz?        Pedagog bir talaba individual yondashgan holda ta'limni tashkil etishi    ",
+    },
+    {
+        title: "O'quv faoliyatining elementlarini to'g'ri belgilang?        O'quv motivlari, o'quv topshiriqlari, o'quv harakatlari, o'qituvchinig nazorati, o'qituvchinig baxolashi    ",
+    },
+    {
+        title: "Ideal o'qituvchidagi sifatlarni ko'rsating?     Har tomonlama namunali darajada darsni olib boruvchi o'qituvchi    ",
+    },
+    {
+        title: "Motiv deb nimaga aytiladi?      Inson xulq – atvorining ichki barqarorligi harakatga undovchi kushga    ",
+    },
+    {
+        title: "O'qituvchi va o'quvchi muloqotini bog'lovchi asosiy vosita?     So'z    ",
+    },
+    {
+        title: "Inson ko'nikma va malakalarining avtomatlashuviga nima deb aytiladi?        Professional faoliyat    ",
+    },
+    {
+        title: "O'quvchilarni qobiliyatlari, qiziqishlari va iste'dodlarini  rivojlantirish asosan nimaga bog'liq?      Maqsadga muvofiq o'quv-tarbiyaviy jarayonini tashkilashtirish va amalga oshirishga    ",
+    },    
 ]
